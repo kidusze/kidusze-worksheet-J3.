@@ -35,8 +35,11 @@
 
 12. For an abstract ``` Car ``` class:
 **Abstract methods:**
+
  - ``` startEngine() ``` : Since different types of cars (electric, gas-powered, etc.) may start in different ways, this method would be abstract, forcing subclasses to define how their engines start.
 - ``` fuelType() ``` : Abstract because different cars use different fuels (gasoline, electricity, etc.).
+  
 **Concrete methods:**
+  
 - ``` calculateMileage() ``` – This method might be common to all cars and can be implemented at the abstract class level with logic that applies universally.
 - ``` displayCarInfo() ``` – This method can be implemented in the abstract class to provide a standard way of displaying essential information about the car, such as its model, year, and color. This method can include common details that are relevant for all car types, ensuring consistency in how car information is presented across different subclasses.
