@@ -17,7 +17,8 @@
 9. - ``` fluffy```  : "Name: fluffy Species: Canis Familaris(pomeranian)"
    - ``` george ``` : "Name: george Species: Canis Familaris"
    - ``` brutus ``` : "Name: brutus Species: Felis Catus(shorthair)"
-10. ``` java
+10.
+``` java
     A.1: 42
     A.2: 50
     A.3: Error (no baz() method)
@@ -27,7 +28,7 @@
     D.1: 42
     D.2: 7
     D.3: Error (no baz() method)
-   ```
+```
 
 
     - 11. You can never call a construct classs directly you can only  call it using a super. Software engineering: animal intenstine  zoo example
