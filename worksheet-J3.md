@@ -35,7 +35,6 @@
 
 12. For an abstract ``` Car ``` class:
 **Abstract methods:**
-
  - ``` startEngine() ``` : Since different types of cars (electric, gas-powered, etc.) may start in different ways, this method would be abstract, forcing subclasses to define how their engines start.
 - ``` fuelType() ``` : Abstract because different cars use different fuels (gasoline, electricity, etc.).
   
