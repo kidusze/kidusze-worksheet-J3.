@@ -14,7 +14,10 @@
 
 8. The output is foo1: B B -- ask kinga about this 
 
-9. Name:
+9. ``` fluffy```  : "Name: fluffy Species: Canis Familaris(pomeranian)"
+   ``` george ``` : "Name: george Species: Canis Familaris"
+   ``` brutus ``` : "Name: brutus Species: Felis Catus(shorthair)"
+
     - george : Name: george  Species:
     - 11. You can never call a construct classs directly you can only  call it using a super. Software engineering: animal intenstine  zoo example
       12. engine, steering wheel
