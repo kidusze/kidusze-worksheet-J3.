@@ -14,7 +14,7 @@
 
 8. The output is foo1: B B -- ask kinga about this 
 
-9. <p>``` fluffy```  : "Name: fluffy Species: Canis Familaris(pomeranian)"
+9. <p> ``` fluffy```  : "Name: fluffy Species: Canis Familaris(pomeranian)"
    <br> ``` george ``` : "Name: george Species: Canis Familaris"
    <br> ``` brutus ``` : "Name: brutus Species: Felis Catus(shorthair)"
 
