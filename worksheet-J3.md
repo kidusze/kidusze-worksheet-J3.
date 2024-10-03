@@ -36,7 +36,7 @@
 - **Why use an abstract class**
   - Code Reusability: Abstract classes can provide common functionality through concrete methods, which can be reused in all subclasses. This helps in reducing code duplication and promotes maintainability.
   - Encapsulation of Common Behavior: You can encapsulate common behaviors that should be shared across different types of objects (e.g., all types of animals in a zoo could inherit from an abstract Animal class).
-- ** Example in Software Engineering for Animals**
+- **Example in Software Engineering for Animals**
   - In a zoo management system, an abstract class Animal could include abstract methods like makeSound() and eat(), which all subclasses (e.g., Lion, Elephant, Giraffe) must implement. Common characteristics, such as isVertebrate(), can be defined as concrete methods in the abstract class, as all animals in the system may share these traits. Each animal subclass would provide its specific behaviors (e.g., a Lion would implement makeSound() as "roar"). This setup ensures that all animals share common functionality while allowing for unique behaviors across species. It simplifies treating all animals generically as Animal objects while preserving their specific traits. This design promotes reusability and consistency in managing diverse animal types.
 
 12. For an abstract ``` Car ``` class:
