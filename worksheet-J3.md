@@ -17,7 +17,7 @@
 9. - ``` fluffy```  : "Name: fluffy Species: Canis Familaris(pomeranian)"
    - ``` george ``` : "Name: george Species: Canis Familaris"
    - ``` brutus ``` : "Name: brutus Species: Felis Catus(shorthair)"
-10.``` java
+10. ``` java
     A.1: 42
     A.2: 50
     A.3: Error (no baz() method)
